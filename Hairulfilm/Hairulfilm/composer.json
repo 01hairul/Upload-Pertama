@@ -1,0 +1,16 @@
+{
+    "name": "mahasiswa/utspbwl",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mahasiswa\\Utspbwl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hairul Amri"
+        }
+    ],
+    "require": {}
+}
